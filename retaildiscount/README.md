@@ -30,14 +30,13 @@ src
 │   │   └── RetailDiscountApplication.java   # Main Spring Boot application class
 └── test
 ├── java/com/example/retaildiscount  # Test cases for services
-Getting Started
-Prerequisites
+
+# Prerequisites
 Java 17 or higher
 Maven 3.*+
 Git
 Installation
 Clone the repository:
-
 bash
 Copy code
 git clone https://github.com/kumar-ashish-20/retail-store-discount.git
